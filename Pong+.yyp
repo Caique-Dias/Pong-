@@ -20,6 +20,7 @@
     {"id":{"name":"snd_boing_02","path":"sounds/snd_boing_02/snd_boing_02.yy",},"order":1,},
     {"id":{"name":"snd_boing_03","path":"sounds/snd_boing_03/snd_boing_03.yy",},"order":2,},
     {"id":{"name":"obj_raquete_adv","path":"objects/obj_raquete_adv/obj_raquete_adv.yy",},"order":1,},
+    {"id":{"name":"obj_bola2","path":"objects/obj_bola2/obj_bola2.yy",},"order":8,},
     {"id":{"name":"obj_botao_modo","path":"objects/obj_botao_modo/obj_botao_modo.yy",},"order":7,},
     {"id":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},"order":6,},
     {"id":{"name":"spr_fundo_2","path":"sprites/spr_fundo_2/spr_fundo_2.yy",},"order":2,},
